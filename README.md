@@ -30,11 +30,8 @@ This is a simple Ping Pong game developed using JavaScript and the p5.js library
 - **Up Arrow (↑)** - Move paddle up
 - **Down Arrow (↓)** - Move paddle down
 
-## Screenshots
-(Include screenshots of the game here if available)
 
 ## Acknowledgments
-- **Professor Name** - For guidance in the Programming Topics class.
 - **p5.js Community** - For providing excellent documentation and support.
 
 ## License
